@@ -25,8 +25,8 @@ async def start(event):
     link_preview=False,
     buttons=(
       [
-        Button.url('📣 Channel', 'https://t.me/king_izzyy'),
-        Button.url('📦 Source', 'https://t.me/something_Somethings')
+        Button.url(' 😈 𝐃ᴇᴠᴇʟᴏᴘᴇʀ 😈 ', 'https://t.me/king_izzyy'),
+        Button.url('👸🏻 𝐐ᴜᴇᴇɴ 𝐈ɴsɪᴅᴇ 👸🏻', 'https://t.me/something_Somethings')
       ]
     )
   )
